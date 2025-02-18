@@ -1,4 +1,4 @@
-# Data Loading Utility for Barebones Linear Regression
+# Linear Regression without using Scikit Learn 
 
 This project provides utility functions for loading data and implementing linear regression from scratch, without using scikit-learn.
 
